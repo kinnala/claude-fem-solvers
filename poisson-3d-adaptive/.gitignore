@@ -1,0 +1,8 @@
+*.msh
+*.png
+*.vtk
+*.xdmf
+*.h5
+*.csv
+__pycache__/
+.venv/
