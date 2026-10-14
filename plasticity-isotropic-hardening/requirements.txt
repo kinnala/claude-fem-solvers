@@ -1,0 +1,7 @@
+scikit-fem>=12
+numpy
+scipy
+matplotlib
+meshio
+gmsh
+pytest
